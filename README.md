@@ -70,14 +70,7 @@ The goal of the project revolves around these 2 topics :
 
 ## :camera: Gallery
 
-#### Titre
-![picture]()
-
-#### Titre
-![picture]()
-
-#### Titre
-![video]()
+(Coming soon...)
 
 
 ## :wrench: Tools
